@@ -5,6 +5,8 @@ This is a lite modpack made for clients, it won't modify your game too heavily a
 ### Forge
 Currently distributed on Curseforge & GitHub  
 See **Platforms** below for the link
+### NeoForge
+*Coming Soon*
 ### Fabric
 Currently only distributed through this repo
 ### Quilt
@@ -12,10 +14,17 @@ Currently only distributed through this repo
 
 ## Platforms
 ### Curseforge
-https://www.curseforge.com/minecraft/modpacks/client
+**Forge:** https://www.curseforge.com/minecraft/modpacks/client  
+**NeoForge:** *Coming Soon*  
+**Fabric:** *Coming Soon*  
+**Quilt:** *Coming Soon*  
 ### Modrinth
-*Coming Soon*
+**Forge:** *Coming Soon*  
+**NeoForge:** *Coming Soon*  
+**Fabric:** *Coming Soon*  
+**Quilt:** *Coming Soon*  
 ### GitHub
 **Forge:** https://github.com/Destronia/the_client_mods-forge  
-**Fabric:** https://github.com/Destronia/the_client_mods-fabric
-**Quilt:** *Coming Soon*
+**NeoForge:** *Coming Soon*  
+**Fabric:** https://github.com/Destronia/the_client_mods-fabric `OUT-OF-DATE`  
+**Quilt:** https://github.com/JamesBLDZMB/The_Client_Mods-Quilt/tree/modrinth-WIP `EXPERIMENTAL`  
