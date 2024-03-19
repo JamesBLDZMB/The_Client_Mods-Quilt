@@ -1,0 +1,328 @@
+{
+  "game": "minecraft",
+  "formatVersion": 1,
+  "versionId": "3.0.0-rc1",
+  "name": "The Client Mods",
+  "summary": "This is a lite modpack made for clients, it won't modify your game too heavily and should be safe to use & fully functional on Servers. It is designed to provide useful tools & optimisations, this pack has neat HUDs and more, and the mods shouldn't get you banned from servers (check if they are allowed before joining though).",
+  "files": [
+    {
+      "path": "mods/modmenu-9.0.0.jar",
+      "hashes": {
+        "sha512": "62ae3152d6dfd2745b95a6572f085bf8deb708d183a4234e6f72ae7b07f05a787454d4f289cee96d4e0f7efab026ed6073659d1aebb87530abeb7ddcfc0fe40b",
+        "sha1": "eb09a3b6668407df4ad9b24849d52a38c448877e"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/mOgUt4GM/versions/sjtVVlsA/modmenu-9.0.0.jar"
+      ],
+      "fileSize": 724484
+    },
+    {
+      "path": "mods/Xaeros_Minimap_24.0.2_Fabric_1.20.4.jar",
+      "hashes": {
+        "sha1": "cf82e3637e1f5129540ed3ab16ceb5d3ea2e4d58",
+        "sha512": "2a6cdd0f55bdc1c9c17c41f3676571ad889f6153e47d7f9115468fca78317fbde30dc7178f3098f851895aa1afde66798c3ecf7b2108b3cecef435db09a844a9"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/1bokaNcj/versions/Gwys2mC6/Xaeros_Minimap_24.0.2_Fabric_1.20.4.jar"
+      ],
+      "fileSize": 1450380
+    },
+    {
+      "path": "mods/CosmeticArmor-1.20-1.6.0.jar",
+      "hashes": {
+        "sha512": "426792cb538e73962374f638cee3182fa1c3e28acbdc5a61b534ee70149ffc955db652c820caf4fc4a27acd980f522e419f5f580c55683d985723a314caf2c96",
+        "sha1": "6adc25ad26e9c0641bf48fb67eb8d05dae2911b1"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/JrIYhb1P/versions/wPdj2uLD/CosmeticArmor-1.20-1.6.0.jar"
+      ],
+      "fileSize": 20221
+    },
+    {
+      "path": "mods/InventorySorter-1.9.0-1.20.4.jar",
+      "hashes": {
+        "sha1": "b20cd045e7443ed2e28d36d5f0d5d95fb9a4ab90",
+        "sha512": "6a945018e2279b5b3f5e50ff8a09f36a07e76a7c7562286eaae7930761a4b060abdd1499798ea3f0a258ab5d766ce5f88d104ac0801321858181ec928bb77267"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5ibSyLAz/versions/MO3Q3zs2/InventorySorter-1.9.0-1.20.4.jar"
+      ],
+      "fileSize": 223259
+    },
+    {
+      "path": "mods/cleancut-fabric-6.0+mc1.19.1-mc1.20.x.jar",
+      "hashes": {
+        "sha512": "a804620d54167f9c34c338f882a77b8358ad9857582aa5095c5679da2bc5226bc0d61ae6ebf40f03931abb287fbf1ba8b678909c75efa5d4fffea0817ac4d116",
+        "sha1": "181804837452d7c0cd0979321fff6537067ead3d"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/CCNUnbXG/versions/9GrCNR7Z/cleancut-fabric-6.0%2Bmc1.19.1-mc1.20.x.jar"
+      ],
+      "fileSize": 16969
+    },
+    {
+      "path": "mods/light-overlay-8.0.0.jar",
+      "hashes": {
+        "sha512": "f49abe58715e782cc1a46099f9e6fe5842b13eb09a40789838bebfb66413e33d9c07ebe053269c02f8996da00bb1e4575d4020b5b099c418cbf6b9230e6a19fd",
+        "sha1": "ba9d6db7b84d9b00b74e4fb04f137c96d080cb0a"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/YfOlc91N/versions/FQVuf0Wz/light-overlay-8.0.0.jar"
+      ],
+      "fileSize": 60814
+    },
+    {
+      "path": "mods/inventoryessentials-fabric-1.20.4-10.0.3.jar",
+      "hashes": {
+        "sha512": "488bdccf22c7cbf858e1f879524e958a0f04a681b69e7a174e3a9b238755edf000ca15f4509bc50e76c4edf0dff00188faffab01981c8df2c8dcf583f32839c2",
+        "sha1": "09041eb7b9d192817519fa80d2bc868a973e59fd"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/Boon8xwi/versions/hH1zmqdy/inventoryessentials-fabric-1.20.4-10.0.3.jar"
+      ],
+      "fileSize": 139237
+    },
+    {
+      "path": "mods/architectury-11.1.17-fabric.jar",
+      "hashes": {
+        "sha1": "578b95d1c3631e614739fa4ac1ca773836950540",
+        "sha512": "294112b2db8b5cef2051fede57dfacfb00cc7fce737cbf7db3c2de8b81f0cd17bd29a3e2849c3e05bd9e801fbfa3d14e5a83b6531b3d37e5d7c650cff4714362"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/lhGA9TYQ/versions/kVjQWX0l/architectury-11.1.17-fabric.jar"
+      ],
+      "fileSize": 587429
+    },
+    {
+      "path": "mods/fallingleaves-1.15.4+1.20.1.jar",
+      "hashes": {
+        "sha512": "60bdf742d75a7836809087fed4e92da23dd24a09a2f222e5d2807a0fe6f1dfeff9c42c1a3cb84d20d93b3c8045b349f805d3b7b4eee4278dfe5bfe3b9bd2ebc1",
+        "sha1": "5101bd05c678a874c1fa40c3363d1c127f7074d5"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/WhbRG4iK/versions/KpvXCE2X/fallingleaves-1.15.4%2B1.20.1.jar"
+      ],
+      "fileSize": 153985
+    },
+    {
+      "path": "mods/trinkets-3.8.1.jar",
+      "hashes": {
+        "sha1": "7c784b0c479eb91d43314c00348a7750197af8f9",
+        "sha512": "42c66bd280f5030bafc50f5e9a6e4bacda10e0d717903a03448013d86ba373718bce0f3550e653043eb2e4bae4334557f234b621801a4b84bf59f1e9dd579447"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/5aaWibi9/versions/7aQD4OG8/trinkets-3.8.1.jar"
+      ],
+      "fileSize": 240884
+    },
+    {
+      "path": "mods/RoughlyEnoughItems-14.0.688-fabric.jar",
+      "hashes": {
+        "sha1": "a0693dc5036ca869196a6d9eb815fad9d3a42625",
+        "sha512": "2e60506456edf6639efc841131d81a792872c528d573562042007966a25acbebdde7ef1f8ecfadd69f5d75b0233efa1f97c3ba9f3c95bd9286bd156a45a16d88"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/nfn13YXA/versions/Jhw0fDTs/RoughlyEnoughItems-14.0.688-fabric.jar"
+      ],
+      "fileSize": 2258055
+    },
+    {
+      "path": "mods/clienttweaks-fabric-1.20.4-13.0.2.jar",
+      "hashes": {
+        "sha1": "8a3a6d9b3eeb673d5a224c489434998d91b1a722",
+        "sha512": "a719d41abbb5a00818ff20bc99b697ffb882e1b4c10c609bc288a270fc1ba26aad68276fe2e84b86367c6871ed95d27ab190755c8edc82f52b9696688e27b1cd"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/vPNqo58Q/versions/ecFWvFOq/clienttweaks-fabric-1.20.4-13.0.2.jar"
+      ],
+      "fileSize": 133822
+    },
+    {
+      "path": "mods/XaerosWorldMap_1.38.1_Fabric_1.20.4.jar",
+      "hashes": {
+        "sha512": "4bb308533ac388cd0ad99554c048b187c740c44ec736927aff40c98816672adbfa1ed32fb9dc66ee3d6c0d82163b0c1f6bf5d24147e550015a45a973c3397334",
+        "sha1": "a893df207b8b857f6116d7e003eba99dfc697bef"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/NcUtCpym/versions/2lbtkEPK/XaerosWorldMap_1.38.1_Fabric_1.20.4.jar"
+      ],
+      "fileSize": 944674
+    },
+    {
+      "path": "mods/balm-fabric-1.20.4-9.0.6.jar",
+      "hashes": {
+        "sha1": "c6b601aa1f0aa2adbd9372384b62e9b03d2aaaab",
+        "sha512": "7c85cb01856ded244a0ebbc9da1c5a2c3d8b1744e7e349893d7b6daccbe73687d9180e1c84cd82f88e7ad32b9f5e37f2c8bae168f9dc16e85645083c75b3b6e5"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/MBAkmtvl/versions/kjIgNYGA/balm-fabric-1.20.4-9.0.6.jar"
+      ],
+      "fileSize": 395874
+    },
+    {
+      "path": "mods/cloth-config-13.0.121-fabric.jar",
+      "hashes": {
+        "sha512": "05a389ce4383c7b202e6aa7b37f39da01b6ee1f5b22dad076d528891b5ef8bcae335b2d7930b33b753ad34f1a61bae52f3447f74a4df6739239344674b59b0c5",
+        "sha1": "e20f396a937a09b686aa986c802643b9adbb311e"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9s6osm5g/versions/eBZiZ9NS/cloth-config-13.0.121-fabric.jar"
+      ],
+      "fileSize": 1142084
+    },
+    {
+      "path": "mods/sodium-fabric-0.5.8+mc1.20.4.jar",
+      "hashes": {
+        "sha512": "bd00b956bde1205171e744a6a3780e835fb6928eb667fb2b56467818c979fb1e8c82561380a71a7dbfa1516cd4b6cf9087ca99f1ae066da6d65af2c828b8d554",
+        "sha1": "4c38d7b01660a27a98406767c613b3f28b6c9dfe"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/AANobbMI/versions/4GyXKCLd/sodium-fabric-0.5.8%2Bmc1.20.4.jar"
+      ],
+      "fileSize": 949085
+    },
+    {
+      "path": "mods/voicechat-fabric-1.20.4-2.5.9.jar",
+      "hashes": {
+        "sha512": "290e4b5971a9d9ae71c573bd177add028b93aa04be113ebd24839304914e7d3bc417456fb43d274361f19327303fb872b60d4eac56f8792b19f729404c18ea57",
+        "sha1": "d7d530045a40df2da91ffb925ad8f061da543d94"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/aUuvK0aI/voicechat-fabric-1.20.4-2.5.9.jar"
+      ],
+      "fileSize": 8128239
+    },
+    {
+      "path": "mods/BetterCompatibilityChecker-fabric-5.1.2+mc1.20.4.jar",
+      "hashes": {
+        "sha1": "c079a017f4306f9ab29e24474e258903e41cb227",
+        "sha512": "e8f5382ad3e56d2f22c72a5752fa933ca6dcd067ba7c06f38e0a0523344e7241b66f03fd4a9bd27fda9b61f10c5f711f2cfca47722f17d7cd3716b9fc447d038"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/KJhXPbHQ/versions/PgUWE1N7/BetterCompatibilityChecker-fabric-5.1.2%2Bmc1.20.4.jar"
+      ],
+      "fileSize": 25610
+    },
+    {
+      "path": "mods/fabric-api-0.96.4+1.20.4.jar",
+      "hashes": {
+        "sha1": "60e9dbbf526882175fa86a719791878f631ab415",
+        "sha512": "00f729e336b30b27d2d539c82338659df9cacaa0db59907b08660c7f078877a3efbada6bbf5a2f3e88b9d0f2941006a4782d5d108c48033868a5a3f5dab9b3ff"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/9p2sguD7/fabric-api-0.96.4%2B1.20.4.jar"
+      ],
+      "fileSize": 2160893
+    },
+    {
+      "path": "mods/MouseTweaks-fabric-mc1.20-2.25.jar",
+      "hashes": {
+        "sha1": "21ae6dd81324543e77c10bbb2b928320d71b6750",
+        "sha512": "04f017920be9e982c945df0d27ef93a4cace730b7bc6fd46a82c028c50f7d6819ec0a4c28a4454bc681b4591eeddb08b74c330cb577d7a697a2391fcc11d925d"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/aC3cM3Vq/versions/m0Dd8Cjy/MouseTweaks-fabric-mc1.20-2.25.jar"
+      ],
+      "fileSize": 77342
+    },
+    {
+      "path": "mods/appleskin-fabric-mc1.20.3-2.5.1.jar",
+      "hashes": {
+        "sha1": "d8c8f47cadf0bec89b0539f44e3c67df73d8e048",
+        "sha512": "d121c5b760da0df1882f74bedfe84f2033d81a679cb0aa15e38eeae5fefefba8b23b1a87e43095c3cb9cbde5d0960b52d99856209111069923078c39c8750aa6"
+      },
+      "env": {
+        "server": "required",
+        "client": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/EsAfCjCV/versions/pmFyu3Sz/appleskin-fabric-mc1.20.3-2.5.1.jar"
+      ],
+      "fileSize": 1077002
+    }
+  ],
+  "dependencies": {
+    "quilt-loader": "0.24.0",
+    "minecraft": "1.20.4"
+  }
+}
