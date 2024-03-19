@@ -3,7 +3,7 @@ This is a lite modpack made for clients, it won't modify your game too heavily a
 
 ## Loaders
 ### Forge
-Currently distributed on Curseforge & GitHub 
+Currently distributed on Curseforge & GitHub  
 See **Platforms** below for the link
 ### Fabric
 Currently only distributed through this repo
