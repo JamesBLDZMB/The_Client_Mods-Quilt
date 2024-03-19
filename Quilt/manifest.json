@@ -1,0 +1,124 @@
+{
+  "minecraft": {
+    "version": "1.20.4",
+    "modLoaders": [
+      {
+        "id": "quilt-0.24.0",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "The Client Mods",
+  "version": "3.0.0-rc1",
+  "author": "Destronia Network",
+  "files": [
+    {
+      "projectID": 248787,
+      "fileID": 4953893,
+      "required": true
+    },
+    {
+      "projectID": 419699,
+      "fileID": 5173988,
+      "required": true
+    },
+    {
+      "projectID": 500525,
+      "fileID": 5139958,
+      "required": true
+    },
+    {
+      "projectID": 551894,
+      "fileID": 5128445,
+      "required": true
+    },
+    {
+      "projectID": 392805,
+      "fileID": 4574770,
+      "required": true
+    },
+    {
+      "projectID": 251407,
+      "fileID": 4991534,
+      "required": true
+    },
+    {
+      "projectID": 348521,
+      "fileID": 4973455,
+      "required": true
+    },
+    {
+      "projectID": 436659,
+      "fileID": 4646421,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 5135435,
+      "required": true
+    },
+    {
+      "projectID": 417510,
+      "fileID": 4786507,
+      "required": true
+    },
+    {
+      "projectID": 547699,
+      "fileID": 5140055,
+      "required": true
+    },
+    {
+      "projectID": 325471,
+      "fileID": 5066467,
+      "required": true
+    },
+    {
+      "projectID": 325492,
+      "fileID": 4573177,
+      "required": true
+    },
+    {
+      "projectID": 308702,
+      "fileID": 5162846,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 4581243,
+      "required": true
+    },
+    {
+      "projectID": 310111,
+      "fileID": 4973491,
+      "required": true
+    },
+    {
+      "projectID": 416089,
+      "fileID": 5186517,
+      "required": true
+    },
+    {
+      "projectID": 394468,
+      "fileID": 5092261,
+      "required": true
+    },
+    {
+      "projectID": 341284,
+      "fileID": 5173502,
+      "required": true
+    },
+    {
+      "projectID": 263420,
+      "fileID": 5191835,
+      "required": true
+    },
+    {
+      "projectID": 317780,
+      "fileID": 5189422,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
