@@ -8,9 +8,9 @@ See **Platforms** below for the link
 ### NeoForge
 *Coming Soon*
 ### Fabric
-Currently only distributed through this repo
+Currently only distributed through GitHub
 ### Quilt
-*Coming Soon*
+Currently only distributed through this repo
 
 ## Platforms
 ### Curseforge
