@@ -9,6 +9,7 @@ See **Platforms** below for the link
 *Coming Soon*
 ### Fabric
 Currently only distributed through GitHub
+See **Platforms** below for the link
 ### Quilt
 Currently only distributed through this repo
 
