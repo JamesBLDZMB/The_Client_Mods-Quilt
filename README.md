@@ -3,7 +3,7 @@ This is a lite modpack made for clients, it won't modify your game too heavily a
 
 ## Loaders
 ### Forge
-Currently distributed on Curseforge  
+Currently distributed on Curseforge & GitHub 
 See **Platforms** below for the link
 ### Fabric
 Currently only distributed through this repo
@@ -15,3 +15,7 @@ Currently only distributed through this repo
 https://www.curseforge.com/minecraft/modpacks/client
 ### Modrinth
 *Coming Soon*
+### GitHub
+**Forge:** https://github.com/Destronia/the_client_mods-forge  
+**Fabric:** https://github.com/Destronia/the_client_mods-fabric
+**Quilt:** *Coming Soon*
