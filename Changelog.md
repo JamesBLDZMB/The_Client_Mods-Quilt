@@ -2,6 +2,7 @@
 ### Client
 - Updated **Minecraft** to `1.20.4`
 - Replaced **Forge** `39.0.9` with **Fabric** `0.15.7`
+- Added **Quilt** `0.24.0`
 ### Mods
 - Updated **AppleSkin** to `2.5.1`
 - Readded **Architectury API** & updated to `11.1.17`
