@@ -1,7 +1,8 @@
-# v3.0.0-rc1
+# v4.0.0-rc1
 ### Client
 - Updated **Minecraft** to `1.20.4`
-- Updated **Fabric** to `0.15.7`
+- Removed **Forge**
+- Readded **Fabric** now `0.15.7`
 ### Mods
 - Updated **AppleSkin** to `2.5.1`
 - Updated **Architectury API** to `11.1.17`
@@ -30,10 +31,62 @@
 - Updated **README**
 - Rewrote old **changelogs**
 
+# v3.2.2
+### Mods
+- Removed **Simple Voice Chat**
+
+# v3.1.2
+### Client
+- Updated **Forge** to `39.0.9`
+### Mods
+- Updated **The One Probe** to `5.0.1`
+- Updated **Cosmetic Armor Reworked** to `1.18.1-v1`
+- Updated **Simple Voice Chat** to `2.1.28`
+- Updated **Xaero's Minimap** to `21.22.6`
+- Updated **Balm** to `2.3.1+0`
+- Updated **Cloth Config API** to `v6.1.48`
+- Updated **Placebo** to `6.0.2`
+- Updated **Better Advancements** to `0.1.2.122`
+- Updated **Craft Presence** to `1.18.1-Release-1.8.8` & remarked as required
+- Updated **Xaero's World Map** to `v1.18.9`
+
+# v3.1.1
+### Mods
+- Readded **Simple Voice Chat** `2.1.22`
+
+# v3.0.1
+### Client
+- Replaced **Fabric** `0.12.11` with **Forge** `39.0.0`
+### Mods
+- Added **The One Probe** `5.0.0`
+- Added **Inventory Spam** `1.5.0`
+- Added **NetherPortalFix** `9.0.0`
+- Added **Modpack Configuration Checker** `v1.9.5`
+- Added **Bedspreads** `5.1.0.4`
+- Added **Simple Discord Rich Presence** `1.6.0-build.8`
+- Added **Better Advancements** `0.1.2.120`
+- Added **Placebo** `6.0.0`
+- Added **Sound Physics Remastered** `1.0.3`
+- Readded **CraftPresence** & updated to `1.18-Release-1.8.8`
+- Replaced **Cosmetic Armor** `1.2.0` with **Cosmetic Armor Reworked** `1.18-v1`
+- Replaced **Inventory Sorting** `1.8.1` with **Inventory Sorter** `19.0.0`
+- Removed **Simple Voice Chat**
+- Removed **Better Compatibility Checker**
+- Removed **Light Overlay**
+- Removed **Architectury API**
+- Removed **CleanCut**
+- Removed **Fabric API**
+- Removed **Falling Leaves**
+- Removed **Mod Menu**
+- Removed **Mouse Tweaks**
+- Removed **Roughly Enough Items (REI)**
+- Removed **Sodium**
+- Removed **Trinkets**
+
 # v2.0.1
 ### Mods
 - Added **Simple Voice Chat** `2.1.22`
-- Removed **CraftPresence** `v1.8.8`
+- Removed **CraftPresence**
 
 # v2.0.0
 ### Client
