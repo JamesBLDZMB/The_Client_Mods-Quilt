@@ -40,7 +40,6 @@
 ### Meta
 - Added **Credits**
 - Updated **name** to `The Client Mods`
-- Updated **author** to `Destronia Network`
 - Updated **README**
 - Rewrote old **changelogs**
 
