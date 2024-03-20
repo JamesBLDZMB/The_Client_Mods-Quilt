@@ -4,26 +4,36 @@
 - Replaced **Forge** `39.0.9` with **Fabric** `0.15.7`
 ### Mods
 - Updated **AppleSkin** to `2.5.1`
-- Updated **Architectury API** to `11.1.17`
+- Readded **Architectury API** & updated to `11.1.17`
 - Updated **Balm** to `9.0.6`
-- Updated **Better Compatibility Checker** to `5.1.2`
-- Updated **CleanCut** to `6.0`
+- Readded **Better Compatibility Checker** & updated to `5.1.2`
+- Readded **CleanCut** & updated to `6.0`
 - Updated **Client Tweaks** to `13.0.2`
-- Updated **Cloth Config API** to `13.0.121`
-- Updated **Cosmetic Armor** to `1.6.0`
-- Updated **Fabric API** to `0.96.4`
-- Updated **Falling Leaves** to `1.15.4`
+- Readded **Cloth Config API** & updated to `13.0.121`
+- Replaced **Cosmetic Armor Reworked** `1.18.1-v1` with **Cosmetic Armor** `1.6.0`
+- Readded **Fabric API** & updated to `0.96.4`
+- Readded **Falling Leaves** & updated to `1.15.4`
 - Updated **Inventory Essentials** to `10.0.3`
-- Updated **Inventory Sorting** to `1.9.0`
-- Updated **Light Overlay** to `8.0.0`
-- Updated **Mod Menu** to `9.0.0`
-- Updated **Mouse Tweaks** to `2.25`
-- Updated **Roughly Enough Items (REI)** to `14.0.688`
-- Updated **Simple Voice Chat** to `2.5.9`
-- Updated **Sodium** to `0.5.8`
-- Updated **Trinkets** to `3.8.1`
+- Replaced **Inventory Sorter** `19.0.0` with **Inventory Sorting** `1.9.0`
+- Readded **Light Overlay** & updated to `8.0.0`
+- Readded **Mod Menu** & updated to `9.0.0`
+- Readded **Mouse Tweaks** & updated to `2.25`
+- Readded **Roughly Enough Items (REI)** & updated to `14.0.688`
+- Readded **Simple Voice Chat** & updated to `2.5.9`
+- Readded **Sodium** & updated to `0.5.8`
+- Readded **Trinkets** & updated to `3.8.1`
 - Updated **Xaero's Minimap** to `24.0.2`
 - Updated **Xaero's World Map** to `1.38.1`
+- Removed **The One Probe**
+- Removed **Inventory Spam**
+- Removed **NetherPortalFix**
+- Removed **Modpack Configuration Checker**
+- Removed **Bedspreads**
+- Removed **Simple Discord Rich Presence**
+- Removed **Better Advancements**
+- Removed **Placebo**
+- Removed **CraftPresence**
+
 ### Distribution
 - Added **Modrinth** index
 ### Meta
