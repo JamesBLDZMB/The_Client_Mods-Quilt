@@ -11,8 +11,8 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "The Client Mods",
-  "version": "3.0.0-rc1",
-  "author": "Destronia Network",
+  "version": "4.0.0-rc1",
+  "author": "redtrillix",
   "files": [
     {
       "projectID": 248787,
