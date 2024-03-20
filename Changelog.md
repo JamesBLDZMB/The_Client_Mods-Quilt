@@ -1,8 +1,7 @@
 # v4.0.0-rc1
 ### Client
 - Updated **Minecraft** to `1.20.4`
-- Removed **Forge**
-- Readded **Fabric** now `0.15.7`
+- Replaced **Forge** `39.0.9` with **Fabric** `0.15.7`
 ### Mods
 - Updated **AppleSkin** to `2.5.1`
 - Updated **Architectury API** to `11.1.17`
@@ -25,15 +24,22 @@
 - Updated **Trinkets** to `3.8.1`
 - Updated **Xaero's Minimap** to `24.0.2`
 - Updated **Xaero's World Map** to `1.38.1`
-### Other
+### Distribution
 - Added **Modrinth** index
+### Meta
 - Added **Credits**
+- Updated **name** to `The Client Mods`
+- Updated **author** to `Destronia Network`
 - Updated **README**
 - Rewrote old **changelogs**
 
 # v3.2.2
 ### Mods
 - Removed **Simple Voice Chat**
+- Removed **Cloth Config API**
+- Removed **Sound Physics Remastered**
+### Meta
+- Updated **name** to `The Client Mod's 1.18.1 [Forge]`
 
 # v3.1.2
 ### Client
@@ -49,10 +55,15 @@
 - Updated **Better Advancements** to `0.1.2.122`
 - Updated **Craft Presence** to `1.18.1-Release-1.8.8` & remarked as required
 - Updated **Xaero's World Map** to `v1.18.9`
+### Meta
+- Updated **name** to `The Client Mod's 1.18.1 (3.1.2) [Forge]`
 
 # v3.1.1
 ### Mods
 - Readded **Simple Voice Chat** `2.1.22`
+### Meta
+- Updated **name** to `The Client Mod's 1.18.1 (3.1.1) [Forge]`
+- Set **author** as `redtrillix`
 
 # v3.0.1
 ### Client
@@ -82,11 +93,15 @@
 - Removed **Roughly Enough Items (REI)**
 - Removed **Sodium**
 - Removed **Trinkets**
+### Meta
+- Updated **name** to `The Client Mod's 1.18.1 (3.0.1) [Forge]`
 
 # v2.0.1
 ### Mods
 - Added **Simple Voice Chat** `2.1.22`
 - Removed **CraftPresence**
+### Meta
+- Updated **name** to `The Client Mod's 1.18.1 (2.0.1) [Fabric]`
 
 # v2.0.0
 ### Client
@@ -97,6 +112,8 @@
 - Updated **Better Compatibility Checker** to `1.0.2`
 - Updated **Light Overlay** to `v6.0.4`
 - Marked **CraftPresence** `v1.8.8` optional
+### Meta
+- Updated **name** to `The Client Mod's 1.18.1 (2.0.0) [Fabric]`
 
 # v1.0.0 [Initial Release]
 ### Client
@@ -124,3 +141,5 @@
 - Added **Trinkets** `3.1.0`
 - Added **Xaero's Minimap** `v21.22.3.1`
 - Added **Xaero's World Map** `v1.18.6.1`
+### Meta
+- Set **name** as `The Client Mod's 1.18 (1.0.0) [Fabric]`
